@@ -1,0 +1,13 @@
+#contenedorTabla,table{
+    width: 100px;
+    height: 10px;
+padding-left: -600px;
+align-items: left;
+/* padd */
+font-size: small;
+}
+h5.h7.button{
+    font-family:   'Trebuchet MS', sans-serif;
+font-size: small;
+
+}
